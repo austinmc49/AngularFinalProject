@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 40px;
+    font-style: italic;
+}
+div {
+    text-align: center;
+    font-weight: bold;
+}

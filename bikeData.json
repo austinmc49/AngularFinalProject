@@ -1,0 +1,34 @@
+{
+  "bikes": [
+    {
+      "name": "Commencal Meta AM V3",
+      "type": "Mountain Bike",
+      "id": 2
+    },
+    {
+      "name": "Trek Madone",
+      "type": "Road Bike",
+      "id": 3
+    },
+    {
+      "name": "Trek Roscoe",
+      "type": "Road Bike",
+      "id": 4
+    },
+    {
+      "name": "Specialized Rockhopper",
+      "type": "Cross Country Bike ",
+      "id": 5
+    },
+    {
+      "name": "Trek Fuel",
+      "type": "Mountain",
+      "id": 6
+    },
+    {
+      "name": "Specialized Stuntjumper",
+      "type": "Mountain",
+      "id": 7
+    }
+  ]
+}

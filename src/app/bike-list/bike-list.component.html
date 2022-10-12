@@ -1,0 +1,11 @@
+<h1>Bike List</h1>
+<ul>
+  <li *ngFor="let bike of bikes">{{bike.name}} is a {{bike.type}}
+    <button class="btn1" (click)="deleteBike(bike.id)">X</button>
+    <a [routerLink]="['/edit', bike.id]"><button class="btn2">edit</button></a>
+  </li>
+
+</ul>
+<!-- <form onsubmit="window.location.reload();">
+<app-bike-add></app-bike-add>
+</form> -->

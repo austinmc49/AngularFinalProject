@@ -1,0 +1,13 @@
+a {
+    margin-right: 5px;
+}
+nav {
+    text-align: right;
+}
+.btn1 {
+    font-weight: bold;
+}
+.btn2 {
+    font-weight: bold;
+    color: green;
+}
